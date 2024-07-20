@@ -1,0 +1,32 @@
+.one{
+    display: flex;
+    width: 1350px;
+    justify-content: space-between;
+    font-size: 24px;
+    list-style: none;
+}
+.first{
+    width: 1500px;
+    height: 400px;
+    justify-content:space-evenly ;
+    display: flex;
+}
+.two{
+    width: 558px;
+    height:452px;
+    border: 1px solid red;
+    background-color: red;
+    font-size: 50px;
+}
+h2{
+   color: white;
+   position: relative;
+   text-align: center;
+   top: 50%;
+   transform: translateY(-50%);
+   padding: 60px;
+}
+.second{
+    overflow-wrap: break-word;
+    padding: 60px;
+}
